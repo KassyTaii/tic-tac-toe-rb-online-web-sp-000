@@ -136,3 +136,12 @@ end
 def play(board)
   input = gets
   end
+
+  if won?
+    puts "Congratulations #{winner}!"
+  elsif draw?
+    puts "Cat's Game!"
+  end
+end
+
+end
