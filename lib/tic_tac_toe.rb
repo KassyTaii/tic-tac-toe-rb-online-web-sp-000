@@ -132,3 +132,8 @@ def winner (board)
     end
   end
 end
+
+def play
+  until over? == true
+    turn
+  end
