@@ -66,4 +66,3 @@ else
   return "O"
 end
 end
-
