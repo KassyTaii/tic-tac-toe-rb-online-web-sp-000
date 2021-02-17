@@ -133,5 +133,5 @@ def winner (board)
   end
 end
 
-def play
+def play(board)
   end
