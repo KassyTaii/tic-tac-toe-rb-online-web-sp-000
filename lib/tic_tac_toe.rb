@@ -134,6 +134,4 @@ def winner (board)
 end
 
 def play
-  until over? == true
-    turn
   end
